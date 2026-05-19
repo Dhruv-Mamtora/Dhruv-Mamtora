@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dhruv Mamtora  
 
 💻 **Embedded Systems & C Programmer** 
-🔒 **Cybersecurity Enthusiast**  
 🎒🌍🏔️🏝️&nbsp;&nbsp;♟️🎮🎧👨‍💻&nbsp;&nbsp;🎥🍿📺🔥&nbsp;&nbsp;🌟🎯🏆✨
 
 ---
@@ -30,7 +29,7 @@
 - UART, I²C, SPI, USB, CAN, Wi-Fi, Bluetooth  
 
 **Other Domains:**  
-- RTOS (Zephyr), Linux systems programming, Cybersecurity research  
+- RTOS (Zephyr), Linux systems programming
 
 ---
  
